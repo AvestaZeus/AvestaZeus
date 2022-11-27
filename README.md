@@ -4,7 +4,7 @@
 **AvestaZeus/AvestaZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Avesta ZEUS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A semi professional Developer From Iran </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avestazeus&label=Profile%20views&color=0e75b6&style=flat" alt="avestazeus" /> </p>
 
